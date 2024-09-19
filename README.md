@@ -18,7 +18,7 @@ Calling `timeOfDay(8)` should print “morning” to the screen, and calling `ti
 Call your method in `main()` with some inputs to test and make sure it works.
 
 ## Coins
-Write a method called `coinConverte`r that accepts a single integer parameter representing some number of pennies and prints the correct number of dollars, quarters, dimes, and nickels that can be made from the pennies. The method should also print any leftover pennies.
+Write a method called `coinConverter that accepts a single integer parameter representing some number of pennies and prints the correct number of dollars, quarters, dimes, and nickels that can be made from the pennies. The method should also print any leftover pennies.
 
 This method must be called `coinConverter()` and its parameter must be an integer.
 
